@@ -12,6 +12,8 @@ The goal of this lab was to replicate and improve my networking skills by applyi
 - DHCP (Dynamic Host configuration Protocol)
 - Structured Network Design - Organized topology for better scalability
 
+## Logical Topology (MAYBE CHANGE  NAME)
+
 
 
 
