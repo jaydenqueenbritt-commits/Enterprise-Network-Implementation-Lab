@@ -30,7 +30,7 @@ The goal of this lab was to replicate and improve my networking skills by applyi
 | MLS-R5 | 10.0.5.0/30 |
 
 ## VLAN addressing Plan
-(add some words in here about why we did it like this)
+(add some words in here about why we did it like this
 | VLAN | Department | Network |
 | --- | --- | --- |
 | 10 | Administration | 192.168.10.0/24 |
