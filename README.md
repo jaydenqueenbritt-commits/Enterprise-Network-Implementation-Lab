@@ -13,7 +13,23 @@ The goal of this lab was to replicate and improve my networking skills by applyi
 - Structured Network Design - Organized topology for better scalability
 
 ## Logical Topology (MAYBE CHANGE  NAME)
+**Network Devices**
+- 1 Multilayer Switch (MLS1)
+- 5 Routers (R1-R5)
+- 13 Access Switches (S1-S13) MAYBE CHANGE NAMING CONVENTION
+- 54 PCs
 
+## IP addressing Plan
+
+| Link | Network |
+| --- | --- |
+| MLS-R1 | 10.0.1.0/30 |
+| MLS-R2 | 10.0.2.0/30 |
+| MLS-R3 | 10.0.3.0/30 |
+| MLS-R4 | 10.0.4.0/30 |
+| MLS-R5 | 10.0.5.0/30 |
+
+## VLAN addressing Plan
 
 
 
