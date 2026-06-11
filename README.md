@@ -1,5 +1,5 @@
 # Enterprise Network Implementation Lab
 ## Network Topology 
-<img width="1210" height="551" alt="Screenshot 2026-06-11 144120" src="https://github.com/user-attachments/assets/93bb3258-fc6c-4c0a-a95f-1d93d5bc8a16" />
+<img width="1207" height="552" alt="Screenshot 2026-06-11 151514" src="https://github.com/user-attachments/assets/ee0f9f5c-4953-4624-bd61-dafb68de7a08" />
 
 ## Project Overview
