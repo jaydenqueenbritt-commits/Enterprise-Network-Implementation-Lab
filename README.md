@@ -20,7 +20,7 @@ The goal of this lab was to replicate and improve my networking skills by applyi
 - 54 PCs
 
 ## IP addressing Plan
-
+(add some words in here about why we did it like this)
 | Link | Network |
 | --- | --- |
 | MLS-R1 | 10.0.1.0/30 |
@@ -30,8 +30,15 @@ The goal of this lab was to replicate and improve my networking skills by applyi
 | MLS-R5 | 10.0.5.0/30 |
 
 ## VLAN addressing Plan
-
-
+(add some words in here about why we did it like this)
+| VLAN | Department | Network |
+| --- | --- | --- |
+| 10 | Administration | 192.168.10.0/24 |
+| 20 | HR | 192.168.20.0/24 |
+| 30 | Finance | 192.168.30.0/24 |
+| 40 | IT | 192.168.40.0/24 |
+| 50 | Sales | 192.168.50.0/24 |
+| 60 | Engineering | 192.168.60.0/24 |
 
 
 ## Key Learning Outcomes
